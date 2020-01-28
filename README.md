@@ -17,5 +17,4 @@ expo start
 
 You can find a walkthru of the application here:
 
-[![Youtube Walkthru](https://img.youtube.com/vi/T_K9Zs9s9B0/0.jpg)]
-(https://www.youtube.com/watch?v=T_K9Zs9s9B0&t=13s "Youtube Walkthru")
+[![Youtube Walkthru](https://img.youtube.com/vi/T_K9Zs9s9B0/0.jpg)](https://www.youtube.com/watch?v=T_K9Zs9s9B0&t=13s "Youtube Walkthru")
