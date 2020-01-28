@@ -17,10 +17,4 @@ expo start
 
 You can find a walkthru of the application here:
 
-* [https://img.youtube.com/vi/T_K9Zs9s9B0/0.jpg](https://www.youtube.com/watch?v=T_K9Zs9s9B0&t=13s)
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [(https://img.youtube.com/vi/T_K9Zs9s9B0/0.jpg)](https://www.youtube.com/watch?v=T_K9Zs9s9B0&t=13s)
